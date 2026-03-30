@@ -1,1 +1,15 @@
+Task 1 - Digital Literacy Awareness Infographic
 
+Tool Used: Canva
+File: digital-literacy-infographic.pdf
+
+Topics Covered in the Infographic:
+1. What is Digital Literacy
+2. Useful Digital Tools for Students
+3. Safe Internet Practices
+4. Professional Online Presence
+5. Cyber Crime Reporting
+
+This infographic was created as part of the Student
+Digital Ambassador assignment for CSE0001 Digital
+Literacy course at VIT Bhopal University.
