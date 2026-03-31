@@ -1,1 +1,20 @@
+Task 2 - Student Digital Portfolio
+
+Platforms Set Up:
+
+1. GitHub (github.com/sharmakartik-ai)
+    Profile README created with skills and tools
+    8 repositories including resume-analyzer project
+    Languages: Python, CSS, HTML, MySQL
+
+2. LinkedIn (linkedin.com/in/kartik-sharma-4a4288379)
+     CSE (AI & ML) Undergraduate at VIT Bhopal
+     98 connections
+     Skills: Data Science, Machine Learning, Python
+
+3. Kaggle (kaggle.com/kartik25bai10999)
+     Student at VIT Bhopal
+     Joined and active on platform
+
+Screenshots of all 3 profiles are included in this folder.
 
